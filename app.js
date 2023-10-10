@@ -25,6 +25,9 @@ megaMenu.addEventListener("mouseout", ()=>{
    
 });
 
+// hovering effect on contentBox 
+
+
 megaContent.addEventListener("mouseover" ,()=>{
     isHovering = true;
 })
